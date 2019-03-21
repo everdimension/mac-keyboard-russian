@@ -2,4 +2,4 @@
 
 Place these files in `/Library/Keyboard Layouts`
 
-The go to Preferences –> Keyboard –> Input Sources
+Then go to Preferences –> Keyboard –> Input Sources
